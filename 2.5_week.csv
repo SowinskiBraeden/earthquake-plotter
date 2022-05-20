@@ -1,0 +1,233 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-20T19:44:32.740Z,19.1620006561279,-155.484832763672,33.4099998474121,2.46,ml,43,156,,0.159999996,hv,hv73018227,2022-05-20T19:50:02.390Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,0.850000024,3.66,15,automatic,hv,hv
+2022-05-20T18:10:50.750Z,35.393,-117.7166667,8.82,2.49,ml,38,41,0.09084,0.15,ci,ci40023287,2022-05-20T18:21:42.940Z,"8km WNW of Johannesburg, CA",earthquake,0.22,0.64,0.238,25,automatic,ci,ci
+2022-05-20T17:22:56.384Z,-16.7724,-177.0681,405.44,4.4,mb,,111,2.652,0.64,us,us6000hmqc,2022-05-20T19:53:31.040Z,"294 km SSE of Alo, Wallis and Futuna",earthquake,11,6,0.06,81,reviewed,us,us
+2022-05-20T17:08:27.870Z,38.236,-112.2551667,9.1,2.46,ml,26,54,0.2694,0.17,uu,uu60499062,2022-05-20T20:05:46.136Z,"3 km W of Junction, Utah",earthquake,0.38,1.07,0.187,19,reviewed,uu,uu
+2022-05-20T16:32:03.236Z,59.6729,-149.8876,21.3,2.5,ml,,,,0.79,ak,ak0226fsye0l,2022-05-20T18:24:54.040Z,"51 km SSW of Lowell Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-20T16:20:35.540Z,40.4864998,-124.2988358,18.22,3.3,ml,17,127,0.03144,0.08,nc,nc73736021,2022-05-20T18:34:41.372Z,"10km SSW of Ferndale, CA",earthquake,0.79,0.41,0.326,11,automatic,nc,nc
+2022-05-20T15:51:58.629Z,30.8305,-105.4618,8.5,3.1,ml,,175,0.412,1.04,us,us6000hmpf,2022-05-20T18:04:09.040Z,"39 km SSW of Sierra Blanca, Texas",earthquake,2.9,8.6,0.062,34,reviewed,us,us
+2022-05-20T15:06:52.045Z,60.156,-153.4161,127.3,2.7,ml,,,,0.77,ak,ak0226fs7hgh,2022-05-20T17:56:43.040Z,"50 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-20T12:35:49.570Z,35.4993,-3.4919,10,5.5,mww,,59,2.402,0.45,us,us6000hmld,2022-05-20T19:48:49.133Z,"48 km NE of Al Hoceïma, Morocco",earthquake,6.4,1.8,0.046,45,reviewed,us,us
+2022-05-20T12:31:06.321Z,4.2989,126.2709,82.77,4.6,mb,,69,2.837,0.59,us,us6000hmlc,2022-05-20T13:23:18.040Z,"151 km SE of Sarangani, Philippines",earthquake,3.4,7.6,0.094,34,reviewed,us,us
+2022-05-20T11:53:55.270Z,33.2318333,-116.2773333,10.62,2.53,ml,111,18,0.04367,0.19,ci,ci40023071,2022-05-20T20:16:59.980Z,"10km ESE of Borrego Springs, CA",earthquake,0.1,0.26,0.165,24,reviewed,ci,ci
+2022-05-20T10:44:48.073Z,9.5863,-84.8275,11.05,4.4,mb,,196,0.71,0.85,us,us6000hml1,2022-05-20T11:05:05.040Z,"21 km W of Jacó, Costa Rica",earthquake,3.4,6.8,0.202,11,reviewed,us,us
+2022-05-20T09:40:10.940Z,17.9153,-66.8736,13,3.66,md,23,195,0.0601,0.15,pr,pr2022140000,2022-05-20T14:55:46.540Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.57,0.38,0.1,12,reviewed,pr,pr
+2022-05-20T09:11:23.983Z,31.99363147,-103.8257321,8.316748047,2.6,ml,11,79,0.08818998995,0.1,tx,tx2022jurc,2022-05-20T17:31:17.340Z,"34 km SE of Malaga, New Mexico",earthquake,1.645368008,2.337295251,0.1,7,reviewed,tx,tx
+2022-05-20T09:07:45.455Z,-29.5388,-72.0423,10,5.8,mww,,94,0.795,0.72,us,us6000hmkd,2022-05-20T18:20:43.126Z,"82 km NW of Coquimbo, Chile",earthquake,4.4,1.8,0.05,38,reviewed,us,us
+2022-05-20T08:16:49.080Z,37.9438333,-118.5413333,9.38,2.61,md,38,73,0.1786,0.13,nc,nc73735931,2022-05-20T16:37:44.581Z,"40km S of Qualeys Camp, NV",earthquake,0.3,1.58,0.118,31,reviewed,nc,nc
+2022-05-20T06:57:33.628Z,-30.1233,-177.5843,26.23,5,mb,,89,0.906,0.93,us,us6000hmk3,2022-05-20T10:03:32.778Z,"Kermadec Islands, New Zealand",earthquake,9.5,5.7,0.118,23,reviewed,us,us
+2022-05-20T06:32:46.437Z,11.4441,-87.3349,10,4.3,mb,,173,1.258,0.59,us,us6000hmjv,2022-05-20T07:19:16.040Z,"97 km WSW of Masachapa, Nicaragua",earthquake,6.5,2,0.116,21,reviewed,us,us
+2022-05-20T06:25:57.598Z,13.1375,-89.1208,67.46,4.4,mb,,137,0.599,0.99,us,us6000hmjk,2022-05-20T09:37:30.656Z,"41 km SSW of El Rosario, El Salvador",earthquake,5.7,7.7,0.062,77,reviewed,us,us
+2022-05-20T06:24:44.640Z,17.971,-66.7551666666667,13.6,2.64,md,9,212,,0.16,pr,pr71349473,2022-05-20T07:22:10.300Z,"4 km WSW of Tallaboa, Puerto Rico",earthquake,0.86,0.4,0.126013184517241,8,reviewed,pr,pr
+2022-05-20T06:16:08.240Z,40.2993317,-124.3818359,6.23,2.76,md,10,243,0.1253,0.08,nc,nc73735891,2022-05-20T07:54:10.306Z,"9km WSW of Petrolia, CA",earthquake,1.28,1.04,0.15,5,automatic,nc,nc
+2022-05-20T06:04:37.868Z,19.1834,121.0586,33.14,4.4,mb,,125,3.616,0.59,us,us6000hmjg,2022-05-20T06:48:47.040Z,"63 km N of Claveria, Philippines",earthquake,10.9,7,0.117,21,reviewed,us,us
+2022-05-20T04:00:15.260Z,47.6886,155.1799,10,4.8,mb,,93,5.659,0.81,us,us6000hmil,2022-05-20T04:26:38.561Z,"east of the Kuril Islands",earthquake,7.9,1.6,0.074,60,reviewed,us,us
+2022-05-20T00:36:37.224Z,29.9289,102.7237,10,4.9,mb,,37,8.633,0.75,us,us6000hmi0,2022-05-20T11:41:35.232Z,"74 km E of Kangding, China",earthquake,8.3,1.9,0.052,117,reviewed,us,us
+2022-05-20T00:04:11.503Z,-14.9328,-76.3553,10,4.7,mb,,159,2.965,0.92,us,us6000hmhu,2022-05-20T00:35:11.040Z,"108 km SW of Santiago, Peru",earthquake,8.3,1.9,0.07,61,reviewed,us,us
+2022-05-19T18:43:42.340Z,36.9766655,-118.9161682,34.48,2.64,md,11,215,0.6162,0.05,nc,nc73735741,2022-05-20T01:24:37.211Z,"38km ESE of Shaver Lake, CA",earthquake,5.01,2.7,0.09,3,automatic,nc,nc
+2022-05-19T16:03:51.236Z,55.2956,-154.8892,10,3.1,ml,,,,0.93,ak,ak0226e59228,2022-05-19T21:59:36.040Z,"189 km SSW of Akhiok, Alaska",earthquake,,0,,,reviewed,ak,ak
+2022-05-19T16:00:59.038Z,62.8195,-148.8395,49.2,2.5,ml,,,,0.68,ak,ak0226e58atk,2022-05-19T20:02:38.040Z,"64 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T15:29:14.087Z,1.7094,126.4477,12.19,5.2,mww,,31,1.308,1.05,us,us6000hmci,2022-05-20T15:58:48.305Z,"145 km NW of Ternate, Indonesia",earthquake,5.5,2.9,0.093,11,reviewed,us,us
+2022-05-19T15:14:13.445Z,31.66809082,-104.4247809,10.71118164,2.6,ml,12,87,0.06471262888,0.2,tx,tx2022jthp,2022-05-20T17:56:13.364Z,"",earthquake,1.135909198,1.304395088,0.2,7,reviewed,tx,tx
+2022-05-19T15:12:03.645Z,55.4041,-155.1003,0.3,2.6,ml,,,,1.13,ak,ak0226e4pckf,2022-05-19T17:11:47.452Z,"181 km SSW of Akhiok, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2022-05-19T12:52:00.230Z,33.5018333,-116.504,13.99,2.7,ml,110,27,0.05993,0.19,ci,ci40022359,2022-05-19T17:24:20.630Z,"17km ESE of Anza, CA",earthquake,0.12,0.21,0.151,24,reviewed,ci,ci
+2022-05-19T12:38:29.510Z,-17.3669,-178.7937,554.61,4.8,mb,,112,3.031,1.03,us,us6000hmbh,2022-05-19T12:55:19.040Z,"214 km ENE of Levuka, Fiji",earthquake,10.8,8.3,0.027,426,reviewed,us,us
+2022-05-19T12:22:26.791Z,8.999,-82.794,10,4,ml,,149,0.229,0.86,us,us6000hmgq,2022-05-19T21:22:26.128Z,"18 km N of Santa Clara, Panama",earthquake,6.9,2,0.085,18,reviewed,us,us
+2022-05-19T12:03:32.170Z,18.8863334655762,-155.519668579102,13.6199998855591,3.19,ml,48,274,,0.289999992,hv,hv73017147,2022-05-20T12:05:28.177Z,"21 km SSE of Naalehu, Hawaii",earthquake,2.92,4.28999996,3.72,29,automatic,hv,hv
+2022-05-19T12:03:32.140Z,18.9258333333333,-155.5385,37.06,3.46,ml,56,271,,0.12,hv,hv73017142,2022-05-19T22:42:36.611Z,"16 km SSE of Naalehu, Hawaii",earthquake,0.8,0.86,0.161993328032104,37,reviewed,hv,hv
+2022-05-19T11:52:08.877Z,28.42803955,-98.80457261,16.50695801,2.6,ml,11,98,0.3348141815,0.3,tx,tx2022jtax,2022-05-19T21:16:48.847Z,"4 km S of Fowlerton, Texas",earthquake,3.266392125,2.089475491,0.1,6,reviewed,tx,tx
+2022-05-19T11:15:07.049Z,33.3392,141.4901,10,4.9,mb,,133,1.422,0.92,us,us6000hmaz,2022-05-19T11:36:12.040Z,"227 km SSE of Katsuura, Japan",earthquake,8.3,1.8,0.049,128,reviewed,us,us
+2022-05-19T10:13:31.721Z,-54.1373,159.0844,10,6.9,mww,,39,0.369,0.94,us,us6000hm9j,2022-05-20T10:22:30.850Z,"Macquarie Island region",earthquake,4.1,1.7,0.078,16,reviewed,us,us
+2022-05-19T10:10:55.874Z,-54.0394,159.1444,10,5.5,mb,,130,0.473,0.92,us,us6000hm9e,2022-05-20T10:14:08.883Z,"Macquarie Island region",earthquake,11.2,1.9,0.101,34,reviewed,us,us
+2022-05-19T09:23:51.580Z,-16.2914,-173.8381,113,5.8,mww,,72,3.09,0.75,us,us6000hm95,2022-05-20T17:24:51.040Z,"37 km S of Hihifo, Tonga",earthquake,9.5,5.9,0.078,16,reviewed,us,us
+2022-05-19T07:53:28.448Z,65.2366,-164.4996,13.15,2.5,ml,,143,0.477,0.38,us,us6000hm8v,2022-05-19T08:18:30.040Z,"75 km N of Solomon, Alaska",earthquake,5.2,6.5,0.066,30,reviewed,us,us
+2022-05-19T07:34:50.372Z,66.4533,-162.5039,0,2.7,ml,,,,0.64,ak,ak0226e02o3x,2022-05-19T08:08:45.040Z,"43 km NNE of Deering, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-19T05:33:59.939Z,32.7171,-119.5396,8.4,2.9,ml,,226,1.84,0.74,us,us6000hm87,2022-05-19T06:03:58.040Z,"132 km WSW of Avalon, California",earthquake,8.1,8.8,0.043,72,reviewed,us,us
+2022-05-19T05:05:15.488Z,-21.7069,-179.2831,584.19,4.3,mb,,50,4.672,0.64,us,us6000hm83,2022-05-19T05:24:55.040Z,"Fiji region",earthquake,10.3,9.1,0.049,120,reviewed,us,us
+2022-05-19T04:47:12.720Z,36.7998352,-121.5383301,7.43,2.47,md,54,41,,0.18,nc,nc73735586,2022-05-19T15:38:42.267Z,"5km S of San Juan Bautista, CA",earthquake,0.27,0.69,0.19,37,automatic,nc,nc
+2022-05-19T04:32:54.280Z,17.9335,-66.8723333333333,11.44,2.65,md,20,185,,0.19,pr,pr71349338,2022-05-19T05:58:21.760Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.41,0.0869328074572526,10,reviewed,pr,pr
+2022-05-19T03:29:09.750Z,19.439,-155.6175,-0.69,2.53,md,37,139,,0.13,hv,hv73016782,2022-05-19T03:40:31.680Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.22,0.31,0.156272311747735,14,reviewed,hv,hv
+2022-05-19T03:29:07.959Z,-57.0999,-25.4138,35,5.3,mww,,22,6.866,0.59,us,us6000hm6v,2022-05-20T03:32:27.440Z,"South Sandwich Islands region",earthquake,9.4,1.8,0.093,11,reviewed,us,us
+2022-05-19T02:48:54.063Z,31.69370569,-104.2647719,7.442675781,2.6,ml,11,63,0.0863767994,0.2,tx,tx2022jsiz,2022-05-20T00:59:54.922Z,"54 km S of Whites City, New Mexico",earthquake,1.38802461,1.9002924320000003,0.2,12,reviewed,tx,tx
+2022-05-19T02:26:00.110Z,44.4511667,-115.1993333,5.13,2.49,ml,14,82,0.835,0.21,mb,mb80546354,2022-05-19T13:19:56.510Z,"33 km NW of Stanley, Idaho",earthquake,0.56,1.05,0.288,15,reviewed,mb,mb
+2022-05-19T02:24:53.037Z,-58.7998,-25.3277,35,5,mb,,38,15.819,0.83,us,us6000hm6g,2022-05-19T23:50:30.040Z,"South Sandwich Islands region",earthquake,11.2,1.9,0.063,80,reviewed,us,us
+2022-05-19T02:21:46.651Z,60.4257,-148.9781,30.6,3.3,ml,,,,0.78,ak,ak0226dx0pdp,2022-05-20T02:24:57.681Z,"21 km E of Crown Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2022-05-19T01:51:28.550Z,-54.8884,-126.9511,10,5.8,mww,,51,31.762,0.92,us,us6000hm6e,2022-05-20T15:57:28.040Z,"southern East Pacific Rise",earthquake,9.7,1.8,0.078,16,reviewed,us,us
+2022-05-19T01:50:24.662Z,-55.102,-126.9161,10,5.2,mb,,117,31.6,0.59,us,us6000hm6c,2022-05-19T22:13:46.040Z,"southern East Pacific Rise",earthquake,15.2,1.9,0.051,129,reviewed,us,us
+2022-05-19T00:40:03.039Z,54.8114,-163.5224,24.64,3.2,ml,,154,0.075,0.66,us,us6000hm62,2022-05-19T16:51:49.960Z,"8 km WSW of False Pass, Alaska",earthquake,5.1,10.5,0.085,18,reviewed,us,us
+2022-05-19T00:35:06.001Z,57.9239,-153.984,29.7,2.9,ml,,,,0.65,ak,ak0226dvwr7d,2022-05-19T00:48:35.040Z,"42 km N of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-19T00:14:53.639Z,33.1366,141.4042,10,4.3,mb,,148,1.334,0.8,us,us6000hm5w,2022-05-19T00:31:08.040Z,"244 km SSE of Katsuura, Japan",earthquake,8.4,1.9,0.094,32,reviewed,us,us
+2022-05-18T23:52:46.047Z,23.4936,123.7443,19.19,5,mww,,90,1.178,0.67,us,us6000hm5u,2022-05-19T00:21:12.040Z,"103 km SSW of Ishigaki, Japan",earthquake,5.9,3.8,0.071,19,reviewed,us,us
+2022-05-18T21:38:41.153Z,63.5367,-149.6545,0,2.5,ml,,,,1.1,ak,ak0226ckw86m,2022-05-18T22:27:29.040Z,"38 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-18T20:53:12.363Z,31.55207133,-104.1424702,7.725463867,2.5,ml,11,69,0.07741700768,0.2,tx,tx2022jrxg,2022-05-20T00:50:38.788Z,"42 km NW of Toyah, Texas",earthquake,1.1537566379999997,1.589548929,0.2,12,reviewed,tx,tx
+2022-05-18T20:23:49.318Z,-58.7784,-25.3638,29.75,5.5,mb,,73,7.619,0.69,us,us6000hm4d,2022-05-19T20:27:47.103Z,"South Sandwich Islands region",earthquake,9.6,4.2,0.05,137,reviewed,us,us
+2022-05-18T19:46:05.568Z,60.8878,-151.6572,76.3,2.8,ml,,,,0.57,ak,ak0226cjr00d,2022-05-18T19:49:14.102Z,"29 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-18T18:31:35.181Z,51.1427,178.7751,9,3.5,ml,,,,0.55,ak,ak0226cj2f2x,2022-05-18T19:44:16.510Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-05-18T15:47:52.730Z,36.4608333,-116.9495,8.16,2.62,ml,23,88,0.06984,0.19,ci,ci40021831,2022-05-19T02:04:37.040Z,"9km W of Furnace Creek, CA",earthquake,0.27,0.8,0.101,54,reviewed,ci,ci
+2022-05-18T11:27:07.551Z,-17.9676,-69.8301,138.56,4.7,mb,,80,0.477,0.82,us,us6000hlz1,2022-05-18T11:58:31.900Z,"25 km SSE of Palca, Peru",earthquake,5.2,4.9,0.084,47,reviewed,us,us
+2022-05-18T10:52:01.141Z,-6.0616,150.8764,36.93,4.7,mb,,130,2.257,0.49,us,us6000hlyx,2022-05-18T11:21:38.040Z,"99 km SE of Kimbe, Papua New Guinea",earthquake,13.3,7.5,0.085,46,reviewed,us,us
+2022-05-18T10:14:54.080Z,19.1696666666667,-155.470333333333,32.2,3.06,ml,44,81,,0.11,hv,hv73016007,2022-05-18T19:09:44.692Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.54,0.64,0.202963388596173,41,reviewed,hv,hv
+2022-05-18T09:36:41.430Z,18.3626,-68.7385,78,3.51,md,17,129,0.3878,0.11,pr,pr2022138000,2022-05-18T10:42:29.425Z,"10 km SW of San Rafael del Yuma, Dominican Republic",earthquake,0.96,0.91,0.31,6,reviewed,pr,pr
+2022-05-18T07:46:57.869Z,36.9558,71.1695,99.63,4.7,mb,,74,2.412,1.27,us,us6000hly9,2022-05-18T08:15:01.040Z,"31 km ENE of Jurm, Afghanistan",earthquake,7.6,7,0.052,111,reviewed,us,us
+2022-05-18T06:27:55.176Z,51.1188,178.7361,17.58,5.8,mww,,95,0.44,1.1,us,us6000hlxv,2022-05-20T06:38:00.236Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.3,3.1,0.06,27,reviewed,us,us
+2022-05-18T06:19:38.840Z,18.0651666666667,-67.3413333333333,7.03,2.61,md,17,232,,0.27,pr,pr71349238,2022-05-18T06:48:42.260Z,"16 km W of Puerto Real, Puerto Rico",earthquake,0.78,0.63,0.124619507934568,13,reviewed,pr,pr
+2022-05-18T04:29:26.635Z,11.8861,143.3157,10,5,mb,,144,2.271,0.64,us,us6000hlxk,2022-05-19T04:39:32.604Z,"211 km SW of Merizo Village, Guam",earthquake,10.8,1.8,0.04,202,reviewed,us,us
+2022-05-18T03:52:25.128Z,33.3154,141.4229,13,5.6,mww,,64,1.363,0.55,us,us6000hlxg,2022-05-19T19:50:56.040Z,"227 km SSE of Katsuura, Japan",earthquake,7.3,1.8,0.062,25,reviewed,us,us
+2022-05-18T03:25:43.900Z,11.8246,143.361,10,5.2,mww,,52,2.289,0.72,us,us6000hlxe,2022-05-20T03:35:50.274Z,"213 km SW of Merizo Village, Guam",earthquake,9.2,1.8,0.078,16,reviewed,us,us
+2022-05-18T02:09:41.437Z,-6.8381,125.0425,536.87,4.4,mb,,56,2.998,0.62,us,us6000hlx7,2022-05-18T02:24:43.040Z,"196 km N of Likisá, Timor Leste",earthquake,11.9,9.7,0.12,20,reviewed,us,us
+2022-05-18T02:07:45.410Z,19.3351666666667,-155.190833333333,6.02,2.81,ml,48,81,,0.12,hv,hv73015697,2022-05-18T02:24:54.530Z,"12 km SSE of Volcano, Hawaii",earthquake,0.26,0.47,0.209468284949999,38,reviewed,hv,hv
+2022-05-18T02:04:06.984Z,41.4791,-125.9302,10.43,2.5,ml,,248,1.578,0.7,us,us6000hlx4,2022-05-18T02:47:24.040Z,"147 km WSW of Crescent City, California",earthquake,7.9,10.1,0.049,54,reviewed,us,us
+2022-05-18T01:43:06.052Z,31.64380688,-104.3865547,7.494091797,3,ml,18,74,0.100501562,0.2,tx,tx2022jqli,2022-05-18T23:33:44.367Z,"58 km S of Whites City, New Mexico",earthquake,1.486743664,2.415450156,0.2,15,reviewed,tx,tx
+2022-05-18T01:38:36.406Z,12.3941,123.5664,10,4.6,mb,,109,13.372,0.62,us,us6000hlx9,2022-05-18T02:34:51.040Z,"1 km S of Bulo, Philippines",earthquake,11.6,1.9,0.062,77,reviewed,us,us
+2022-05-18T00:47:41.274Z,16.7149,-91.2193,10,4.4,mb,,80,0.825,1.12,us,us6000hlwq,2022-05-18T01:22:13.040Z,"12 km SSE of Nueva Palestina, Mexico",earthquake,6.3,1.9,0.042,164,reviewed,us,us
+2022-05-18T00:44:00.330Z,17.9255,-66.9523333333333,10.62,2.58,md,21,221,,0.11,pr,pr71349213,2022-05-18T01:08:05.560Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.46,0.32,0.0846008979336836,12,reviewed,pr,pr
+2022-05-18T00:31:48.887Z,62.2562,-150.6189,7.7,2.8,ml,,,,1.11,ak,ak0226c8cn2o,2022-05-18T01:00:52.040Z,"21 km WSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-17T23:50:01.890Z,21.2861,98.5374,10,4.4,mb,,65,0.981,0.69,us,us6000hlwe,2022-05-19T22:30:40.232Z,"148 km WSW of Kēng Tung, Myanmar",earthquake,4.3,1.9,0.138,15,reviewed,us,us
+2022-05-17T23:36:48.896Z,38.1172,-118.0979,11,2.5,ml,20,44.67,0.111,0.1242,nn,nn00839060,2022-05-18T02:39:35.655Z,"30 km S of Mina, Nevada",earthquake,,1.2,0.33,11,reviewed,nn,nn
+2022-05-17T22:56:21.926Z,31.6919,50.4429,10,4.3,mb,,93,5.712,0.85,us,us6000hlw7,2022-05-18T00:07:23.040Z,"63 km S of Fārsān, Iran",earthquake,11.2,1.9,0.097,30,reviewed,us,us
+2022-05-17T22:49:55.125Z,21.3751,98.5302,10,4.2,mb,,71,0.991,0.43,us,us6000hlw6,2022-05-17T23:56:31.040Z,"147 km WSW of Kēng Tung, Myanmar",earthquake,6.5,1.9,0.236,5,reviewed,us,us
+2022-05-17T22:15:53.100Z,86.6293,64.0515,10,4.2,mb,,94,9.455,0.73,us,us6000hlw2,2022-05-17T23:33:50.040Z,"north of Franz Josef Land",earthquake,11,1.9,0.08,44,reviewed,us,us
+2022-05-17T21:35:11.812Z,30.0825,56.6222,10,4.2,mb,,88,5.13,0.77,us,us6000hlvp,2022-05-18T03:39:34.243Z,"18 km NNE of Bardsīr, Iran",earthquake,10.1,1.9,0.092,33,reviewed,us,us
+2022-05-17T21:26:20.037Z,-8.5107,128.2466,10,5,mb,,61,4.119,1.1,us,us6000hlvk,2022-05-17T22:15:02.040Z,"137 km E of Lospalos, Timor Leste",earthquake,4.7,1.8,0.061,86,reviewed,us,us
+2022-05-17T21:25:06.020Z,19.0655,-65.992,37.04,2.98,md,11,257,,0.25,pr,pr71349178,2022-05-19T14:42:35.774Z,"67 km N of San Juan, Puerto Rico",earthquake,1.44,7.32,0.045459289380287,7,reviewed,pr,pr
+2022-05-17T21:17:18.626Z,41.0054,143.061,27.59,5.2,mww,,62,1.011,0.7,us,us6000hlvf,2022-05-17T22:06:12.965Z,"143 km ENE of Hachinohe, Japan",earthquake,7.1,3.9,0.089,12,reviewed,us,us
+2022-05-17T20:21:41.762Z,-57.7221,-25.6775,60.28,4.6,mb,,69,6.971,0.53,us,us6000hlv6,2022-05-17T21:08:42.040Z,"South Sandwich Islands region",earthquake,10.8,7.6,0.103,34,reviewed,us,us
+2022-05-17T20:17:59.668Z,-22.7803,-66.3488,260.53,4.1,mb,,123,1.696,0.75,us,us6000hlv5,2022-05-17T20:55:20.040Z,"67 km W of Abra Pampa, Argentina",earthquake,13.9,21.3,0.369,2,reviewed,us,us
+2022-05-17T18:47:29.303Z,55.3997,-155.3386,29.6,2.8,ml,,,,1.19,ak,ak0226avmj83,2022-05-18T13:48:50.040Z,"186 km SSW of Akhiok, Alaska",earthquake,,12.8,,,reviewed,ak,ak
+2022-05-17T16:17:42.110Z,62.4025,-149.5872,25.2,2.8,ml,,,,0.67,ak,ak0226au97rm,2022-05-17T16:50:37.040Z,"27 km ESE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-17T15:44:25.423Z,41.385,-126.1229,10.55,2.6,ml,,261,1.68,0.22,us,us6000hlts,2022-05-18T10:08:10.283Z,"165 km WSW of Crescent City, California",earthquake,10.6,10,0.044,68,reviewed,us,us
+2022-05-17T15:34:06.984Z,29.5673,130.6862,10,4.9,mb,,95,1.946,0.67,us,us6000hltq,2022-05-17T16:06:22.040Z,"75 km S of Koshima, Japan",earthquake,6.6,1.8,0.048,140,reviewed,us,us
+2022-05-17T14:46:44.108Z,-24.1849,-67.3187,211.47,4.2,mb,,120,1.459,0.45,us,us6000hlsi,2022-05-17T15:29:44.040Z,"101 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,10.2,0.235,7,reviewed,us,us
+2022-05-17T14:05:50.008Z,31.6176,50.2795,10,4.9,mb,,60,5.667,0.75,us,us6000hlsd,2022-05-17T16:56:55.902Z,"74 km ENE of Rāmhormoz, Iran",earthquake,8.4,1.9,0.051,122,reviewed,us,us
+2022-05-17T13:46:30.139Z,34.7864,139.6559,144.07,4.5,mb,,100,1.217,0.5,us,us6000hls5,2022-05-18T08:14:37.987Z,"29 km SW of Tateyama, Japan",earthquake,5.9,6.5,0.093,37,reviewed,us,us
+2022-05-17T13:17:51.871Z,33.3876,141.5066,11.38,5.5,mww,,83,1.444,0.32,us,us6000hlry,2022-05-19T20:00:01.040Z,"223 km SSE of Katsuura, Japan",earthquake,7.8,3.6,0.049,40,reviewed,us,us
+2022-05-17T13:06:59.455Z,31.9338,50.4879,10,4.4,mb,,117,5.572,0.46,us,us6000hlrv,2022-05-17T13:54:03.040Z,"36 km S of Fārsān, Iran",earthquake,8.3,1.9,0.107,28,reviewed,us,us
+2022-05-17T13:06:42.904Z,55.7459,-161.4608,159.26,3.4,ml,,137,0.459,0.27,us,us6000hlrt,2022-05-17T13:45:43.040Z,"32 km SSW of Nelson Lagoon, Alaska",earthquake,7.4,10.2,0.071,26,reviewed,us,us
+2022-05-17T12:41:06.848Z,-8.4703,128.3348,10,4.9,mb,,69,4.214,0.66,us,us6000hlrp,2022-05-17T13:03:38.040Z,"147 km E of Lospalos, Timor Leste",earthquake,7.3,1.9,0.067,69,reviewed,us,us
+2022-05-17T11:21:07.108Z,31.6637,-104.3728,8.7,2.5,ml,,61,0.092,0.3,us,us6000hlrd,2022-05-18T07:54:24.040Z,"56 km S of Whites City, New Mexico",earthquake,1.1,5.7,0.091,72,reviewed,us,us
+2022-05-17T11:21:07.070Z,31.65220843,-104.3661776,6.774267578,2.7,ml,16,67,0.08850699966,0.4,tx,tx2022jpix,2022-05-18T06:46:44.424Z,"58 km S of Whites City, New Mexico",earthquake,1.682371866,1.789345839,0.2,11,reviewed,tx,tx
+2022-05-17T11:08:42.470Z,18.669,-66.8743333333333,66.1,2.77,md,13,219,,0.1,pr,pr71349123,2022-05-17T11:41:25.720Z,"20 km N of Camuy, Puerto Rico",earthquake,0.72,0.48,0.102709737191694,11,reviewed,pr,pr
+2022-05-17T10:30:47.229Z,7.7207,-82.2184,10,4.4,mb,,139,1.163,0.41,us,us6000hlr7,2022-05-20T11:13:31.119Z,"55 km S of Boca Chica, Panama",earthquake,6.1,1.6,0.048,125,reviewed,us,us
+2022-05-17T10:21:56.510Z,-5.9239,150.0901,57.69,4.8,mb,,45,2.688,0.48,us,us6000hlr6,2022-05-17T11:42:05.599Z,"41 km S of Kimbe, Papua New Guinea",earthquake,8.7,6.1,0.073,59,reviewed,us,us
+2022-05-17T09:12:07.258Z,53.1227,-167.1759,35,3.5,mb,,208,0.527,0.6,us,us6000hlr0,2022-05-17T09:27:35.040Z,"93 km SSW of Unalaska, Alaska",earthquake,4.7,2,0.156,10,reviewed,us,us
+2022-05-17T08:42:20.036Z,19.1963,121.0817,4.69,5.2,mww,,89,3.603,1.45,us,us6000hlqw,2022-05-17T15:52:45.841Z,"65 km N of Claveria, Philippines",earthquake,8.4,3.4,0.065,23,reviewed,us,us
+2022-05-17T08:07:34.400Z,48.29966666666667,-121.852,3.53,3.4,ml,60,54,0.116,0.37,uw,uw61832097,2022-05-20T16:48:32.323Z,"6 km ENE of Oso, Washington",earthquake,0.36,1.22,0.19763592610192537,15,reviewed,uw,uw
+2022-05-17T07:19:59.233Z,33.3276,141.3786,10,5.3,mww,,93,1.328,1.07,us,us6000hlqp,2022-05-17T15:35:16.040Z,"224 km SSE of Katsuura, Japan",earthquake,6,1.8,0.08,15,reviewed,us,us
+2022-05-17T07:19:33.835Z,-36.8148,-71.5353,10,4.6,mb,,103,0.259,1.21,us,us6000hlqm,2022-05-17T07:54:09.040Z,"33 km SE of Coihueco, Chile",earthquake,4.4,1.8,0.132,17,reviewed,us,us
+2022-05-17T07:11:30.693Z,-3.5657,140.2848,108.16,4.6,mb,,131,8.048,0.99,us,us6000hlql,2022-05-17T07:26:46.040Z,"113 km SSW of Abepura, Indonesia",earthquake,11.4,7.4,0.091,36,reviewed,us,us
+2022-05-17T06:47:28.530Z,34.1326667,-117.062,8.17,2.46,ml,115,18,0.03982,0.15,ci,ci40020887,2022-05-17T18:35:24.090Z,"9km SSE of Running Springs, CA",earthquake,0.1,0.29,0.139,24,reviewed,ci,ci
+2022-05-17T06:04:53.396Z,33.4051,141.6684,10,5.6,mww,,62,1.58,0.9,us,us6000hlq7,2022-05-18T06:11:17.154Z,"229 km SSE of Katsuura, Japan",earthquake,7.4,1.8,0.062,25,reviewed,us,us
+2022-05-17T05:20:07.519Z,37.447,72.264,197.24,4.1,mb,,55,1.383,0.37,us,us6000hlpv,2022-05-17T05:56:43.040Z,"55 km N of Khandūd, Afghanistan",earthquake,6.1,7.8,0.139,14,reviewed,us,us
+2022-05-17T03:56:50.913Z,12.6079,-87.0522,147.7,4.3,mb,,133,0.093,0.3,us,us6000hlpg,2022-05-17T23:34:22.040Z,"4 km NW of Chichigalpa, Nicaragua",earthquake,3.9,6,0.084,40,reviewed,us,us
+2022-05-17T03:56:20.448Z,-5.6062,-11.508,10,5,mb,,50,3.655,0.44,us,us6000hlpi,2022-05-17T23:05:47.040Z,"Ascension Island region",earthquake,9.3,1.9,0.069,66,reviewed,us,us
+2022-05-17T03:40:06.959Z,51.6193,150.6398,508.91,4.1,mb,,140,4.576,0.33,us,us6000hlpf,2022-05-17T23:01:20.040Z,"Sea of Okhotsk",earthquake,15.2,12.3,0.114,21,reviewed,us,us
+2022-05-17T03:09:38.173Z,60.0978,-140.5573,0.1,3.7,ml,,,,0.88,ak,ak0226amguwk,2022-05-17T22:24:33.040Z,"77 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-17T01:44:22.525Z,-56.4686,177.7293,10,5.5,mww,,50,12.224,0.78,us,us6000hlnb,2022-05-18T01:47:57.636Z,"south of New Zealand",earthquake,7.4,1.8,0.066,22,reviewed,us,us
+2022-05-17T01:14:29.680Z,20.9218333333333,-155.163166666667,0.64,2.8,md,55,252,,0.16,hv,hv73014722,2022-05-17T21:08:30.040Z,"87 km ENE of Hana, Hawaii",earthquake,2.28,0.61,0.148454038354239,19,reviewed,hv,hv
+2022-05-17T00:28:02.270Z,38.3701667,-88.9463333,15.51,2.52,md,30,43,0.4377,0.24,nm,nm60394806,2022-05-19T23:44:44.382Z,"6 km NNW of Mount Vernon, Illinois",earthquake,0.24,0.56,0.146,13,reviewed,nm,nm
+2022-05-16T22:50:52.881Z,11.8857,142.1564,35,4.5,mb,,81,16.711,0.87,us,us6000hlmy,2022-05-16T23:44:21.040Z,"294 km NE of Fais, Micronesia",earthquake,7.7,1.9,0.091,36,reviewed,us,us
+2022-05-16T22:36:13.560Z,53.1309,-167.4805,55.72,2.7,ml,,211,0.381,0.54,us,us6000hlmx,2022-05-16T23:26:13.040Z,"95 km ENE of Nikolski, Alaska",earthquake,8.4,29.5,0.105,12,reviewed,us,us
+2022-05-16T22:31:09.483Z,-59.5723,-26.423,85.04,4.9,mb,,82,7.638,0.64,us,us6000hlmp,2022-05-16T23:11:15.040Z,"South Sandwich Islands region",earthquake,13,4.8,0.079,50,reviewed,us,us
+2022-05-16T21:05:30.240Z,72.4388,2.8316,10,4.6,mb,,86,6.692,0.68,us,us6000hlm0,2022-05-16T21:31:58.040Z,"Norwegian Sea",earthquake,8.3,1.9,0.048,127,reviewed,us,us
+2022-05-16T20:53:21.652Z,72.4165,2.6175,10,4.2,mb,,99,6.74,1.26,us,us6000hllv,2022-05-17T13:06:17.040Z,"Norwegian Sea",earthquake,3.3,1.9,0.093,32,reviewed,us,us
+2022-05-16T19:39:12.096Z,-6.8385,147.4416,76.74,4.5,mb,,83,5.385,1.23,us,us6000hll0,2022-05-16T20:45:36.040Z,"50 km ESE of Lae, Papua New Guinea",earthquake,10.5,7.7,0.066,67,reviewed,us,us
+2022-05-16T18:58:24.905Z,-5.2531,102.0067,22.04,5.8,mww,,39,1.296,0.92,us,us6000hljt,2022-05-17T20:09:21.040Z,"163 km S of Bengkulu, Indonesia",earthquake,7.4,3.5,0.06,27,reviewed,us,us
+2022-05-16T17:21:56.478Z,58.7203,-137.2745,2.9,3,ml,,,,0.82,ak,ak022697c6w5,2022-05-16T18:40:51.040Z,"79 km NW of Elfin Cove, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-05-16T16:24:43.590Z,40.3835,-124.6603333,23.24,2.71,md,33,240,0.2608,0.13,nc,nc73734681,2022-05-17T00:21:11.371Z,"32km WNW of Petrolia, CA",earthquake,0.59,0.63,0.27,40,reviewed,nc,nc
+2022-05-16T16:13:47.695Z,11.6824,-89.0613,10,4.2,mb,,204,1.916,0.41,us,us6000hlif,2022-05-16T16:49:16.040Z,"185 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.5,1.9,0.186,8,reviewed,us,us
+2022-05-16T16:00:41.728Z,56.4203,-155.9749,0,2.9,ml,,,,0.65,ak,ak022696m824,2022-05-16T16:31:08.040Z,"125 km WSW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-16T15:36:38.810Z,35.6433333,-118.32,7.56,2.66,ml,41,39,0.05782,0.15,ci,ci40020279,2022-05-17T06:02:47.129Z,"14km ENE of Lake Isabella, CA",earthquake,0.19,0.55,0.187,24,reviewed,ci,ci
+2022-05-16T13:33:44.001Z,-17.9046,-73.1608,10,4.6,mb,,152,2.72,0.51,us,us6000hlgl,2022-05-16T14:42:47.040Z,"149 km SSW of Camaná, Peru",earthquake,10.1,1.9,0.165,11,reviewed,us,us
+2022-05-16T13:30:03.852Z,-17.903,-73.1038,10,4.3,mb,,158,2.667,0.55,us,us6000hlgi,2022-05-16T14:18:44.040Z,"146 km SW of Islay (Matarani), Peru",earthquake,4.8,2,0.202,7,reviewed,us,us
+2022-05-16T13:28:01.923Z,-4.1032,141.9921,85.03,4.6,mb,,112,9.795,0.48,us,us6000hlgk,2022-05-16T13:53:26.040Z,"92 km W of Ambunti, Papua New Guinea",earthquake,9.9,4.3,0.094,35,reviewed,us,us
+2022-05-16T13:02:55.608Z,-18.0672,-72.9044,10,4.2,mb,,165,2.454,0.43,us,us6000hlgc,2022-05-16T14:53:32.040Z,"146 km SW of Islay (Matarani), Peru",earthquake,5.1,1.9,0.264,4,reviewed,us,us
+2022-05-16T12:32:18.650Z,18.7683333333333,-65.5448333333333,36.07,3.36,md,11,252,,0.34,pr,pr71349038,2022-05-16T14:44:39.659Z,"47 km NNE of Luquillo, Puerto Rico",earthquake,1.74,7.59,0.0444307405448239,5,reviewed,pr,pr
+2022-05-16T11:43:26.190Z,-0.7444,133.2796,35.29,4.9,mb,,117,2.393,0.44,us,us6000hlg1,2022-05-16T12:01:12.040Z,"Near the north coast of Papua, Indonesia",earthquake,5.6,6.8,0.071,62,reviewed,us,us
+2022-05-16T11:25:56.277Z,6.8872,-73.1157,145.23,4.4,mb,,107,0.988,0.74,us,us6000hlfw,2022-05-16T11:47:44.040Z,"13 km SSW of Piedecuesta, Colombia",earthquake,7.6,7.5,0.041,169,reviewed,us,us
+2022-05-16T11:22:59.226Z,-7.4553,128.6101,117.62,4.5,mb,,62,2.715,0.76,us,us6000hlfv,2022-05-16T12:04:22.040Z,"213 km ENE of Lospalos, Timor Leste",earthquake,6.7,5.1,0.131,17,reviewed,us,us
+2022-05-16T11:02:39.100Z,17.9596666666667,-66.9975,9.22,2.96,md,20,184,,0.15,pr,pr71349033,2022-05-16T11:40:14.744Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.68,0.233423441998802,10,reviewed,pr,pr
+2022-05-16T10:28:59.996Z,65.7463,-155.0717,3.4,3.3,ml,,,,0.73,ak,ak0226937nu2,2022-05-17T06:14:57.040Z,"50 km SW of Hughes, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-16T10:13:47.753Z,0.5705,122.184,92.53,4.8,mb,,63,1.501,1.1,us,us6000hlfk,2022-05-16T10:29:49.040Z,"97 km W of Gorontalo, Indonesia",earthquake,7,7.4,0.083,45,reviewed,us,us
+2022-05-16T09:52:42.080Z,19.2071,-64.6545,53,3.62,md,9,326,1.0971,0.13,pr,pr2022136000,2022-05-17T06:09:12.040Z,"98 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.42,6.21,0.04,5,reviewed,pr,pr
+2022-05-16T09:49:32.489Z,58.7431,-137.2314,3.4,2.7,ml,,,,0.68,ak,ak022692qo97,2022-05-17T06:03:34.040Z,"80 km NW of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-16T08:48:25.280Z,19.842,-155.6125,22.31,2.63,ml,44,103,,0.14,hv,hv73013982,2022-05-16T23:09:36.037Z,"21 km SSE of Waimea, Hawaii",earthquake,0.37,0.92,0.108047104311085,16,reviewed,hv,hv
+2022-05-16T06:40:54.720Z,11.2611,-87.0141,35,4.6,mb,,181,1.158,0.55,us,us6000hlet,2022-05-16T10:05:23.040Z,"79 km SW of Masachapa, Nicaragua",earthquake,6.7,2,0.033,270,reviewed,us,us
+2022-05-16T06:36:52.230Z,34.0068333,-116.4455,7.38,2.84,ml,117,19,0.07271,0.14,ci,ci40019951,2022-05-17T06:01:36.040Z,"7km NE of Desert Hot Springs, CA",earthquake,0.08,0.34,0.148,28,reviewed,ci,ci
+2022-05-16T06:31:03.400Z,18.4603333333333,-65.0498333333333,5.1,3.26,md,16,323,,0.41,pr,pr71348988,2022-05-16T07:41:16.220Z,"18 km NW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.51,0.8,0.126573158629591,10,reviewed,pr,pr
+2022-05-16T06:16:50.290Z,34.0078333,-116.4448333,8.25,3.76,mw,115,21,0.07131,0.15,ci,ci40019919,2022-05-19T18:50:33.717Z,"7km NE of Desert Hot Springs, CA",earthquake,0.09,0.29,,6,reviewed,ci,ci
+2022-05-16T05:48:41.779Z,58.6884,-137.5389,4.4,3.4,ml,,,,0.74,ak,ak022690cqso,2022-05-17T19:12:52.923Z,"88 km NW of Elfin Cove, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2022-05-16T05:25:53.904Z,50.6344,156.238,85.91,5.4,mww,,27,2.637,0.8,us,us6000hlee,2022-05-17T13:18:44.582Z,"9 km ESE of Severo-Kuril’sk, Russia",earthquake,6.5,3.5,0.049,40,reviewed,us,us
+2022-05-16T03:54:04.296Z,31.65467958,-104.2136159,7.674047852000001,2.7,ml,12,71,0.04689377563,0.3,tx,tx2022jmyr,2022-05-18T02:57:00.777Z,"54 km NW of Toyah, Texas",earthquake,1.180992079,1.0674628260000003,0.2,8,reviewed,tx,tx
+2022-05-16T02:14:32.634Z,59.7533,-153.1712,103.2,2.9,ml,,,,0.61,ak,ak02268yd4vt,2022-05-16T02:40:28.040Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-16T01:17:01.245Z,-21.2654,-68.9027,127.05,4,mb,,85,0.588,0.79,us,us6000hldu,2022-05-16T02:31:12.040Z,"131 km N of Calama, Chile",earthquake,5.3,6.9,0.232,5,reviewed,us,us
+2022-05-16T00:26:20.719Z,56.2831,-156.5946,35,2.6,ml,,169,1.419,0.98,us,us6000hldn,2022-05-17T00:44:49.040Z,"112 km E of Chignik, Alaska",earthquake,5.7,2,0.069,28,reviewed,us,us
+2022-05-16T00:17:31.041Z,51.6263,179.2047,106.7,3.8,mb,,209,0.352,0.57,us,us6000hldk,2022-05-17T00:36:59.040Z,"288 km W of Adak, Alaska",earthquake,10.1,6.6,0.077,44,reviewed,us,us
+2022-05-15T23:23:49.748Z,61.7289,-150.7992,47.5,3.1,ml,,,,0.83,ak,ak02267nduv5,2022-05-16T23:26:45.319Z,"25 km NW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-15T21:49:56.297Z,36.5206,28.5726,58.2,4.1,mb,,63,0.476,0.55,us,us6000hlcz,2022-05-16T20:36:16.040Z,"24 km SSW of Sarigerme, Turkey",earthquake,4.7,6.6,0.111,22,reviewed,us,us
+2022-05-15T19:41:29.843Z,51.3341,-178.215,44.47,4,mb,,219,0.609,0.69,us,us6000hlce,2022-05-16T01:14:29.374Z,"124 km WSW of Adak, Alaska",earthquake,10,24.8,0.094,30,reviewed,us,us
+2022-05-15T19:29:26.420Z,19.2411666666667,-155.387333333333,32.93,3.33,ml,55,141,,0.13,hv,hv73013327,2022-05-17T23:54:32.746Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.4,0.49,0.234331976092405,34,reviewed,hv,hv
+2022-05-15T16:17:04.575Z,26.2152,92.3791,10,4.1,mb,,135,5.257,1.32,us,us6000hld3,2022-05-16T16:42:38.215Z,"4 km SE of Morigaon, India",earthquake,11.9,1.9,0.14,14,reviewed,us,us
+2022-05-15T15:44:07.356Z,53.5463,-166.3089,72.23,3.6,mb,,166,0.321,0.36,us,us6000hlbf,2022-05-15T15:59:53.832Z,"39 km SSE of Unalaska, Alaska",earthquake,6.1,7.5,0.15,12,reviewed,us,us
+2022-05-15T13:29:40.227Z,61.9888,-148.3629,19.9,2.7,ml,,,,0.9,ak,ak02267hgsdx,2022-05-15T14:10:20.040Z,"22 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-15T13:00:46.322Z,-23.5215,-66.8258,206.66,4.5,mb,,125,1.367,0.59,us,us6000hlau,2022-05-15T14:00:26.040Z,"92 km NNW of San Antonio de los Cobres, Argentina",earthquake,10.2,8.2,0.057,94,reviewed,us,us
+2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-20T11:20:12.485Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
+2022-05-15T09:22:44.420Z,-28.6884,-176.5663,10,4.9,mb,,70,1.316,0.45,us,us6000hla3,2022-05-15T09:52:38.040Z,"Kermadec Islands region",earthquake,11.1,1.9,0.046,147,reviewed,us,us
+2022-05-15T08:19:20.380Z,18.8015,-65.7946666666667,15.55,3.43,md,24,239,,0.22,pr,pr71348943,2022-05-15T14:11:45.240Z,"41 km N of Suárez, Puerto Rico",earthquake,0.69,1.23,0.134287055842265,11,reviewed,pr,pr
+2022-05-15T07:05:14.842Z,31.67683334,-104.3965378,7.185595703,2.7,ml,17,56,0.08923964816,0.2,tx,tx2022jljm,2022-05-15T14:27:19.241Z,"55 km S of Whites City, New Mexico",earthquake,1.141946015,1.125689901,0.1,21,reviewed,tx,tx
+2022-05-15T06:52:45.997Z,58.6613,-152.5169,50.1,3.4,ml,,,,0.43,ak,ak02267dfp1l,2022-05-15T19:06:36.521Z,"70 km NNE of Aleneva, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-05-15T05:34:30.231Z,36.1843,25.3377,10,4.2,mb,,85,0.965,0.6,us,us6000hl95,2022-05-16T12:33:40.776Z,"21 km SSW of Emporeío, Greece",earthquake,4.4,1.8,0.091,38,reviewed,us,us
+2022-05-15T04:45:25.630Z,19.3435,-64.6885,41,3.9,md,19,305,1.1942,0.46,pr,pr2022135001,2022-05-15T05:55:19.169Z,"112 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.22,20.95,0.11,13,reviewed,pr,pr
+2022-05-15T04:29:00.118Z,-34.9799,-74.4756,10,4.6,mwr,,109,2.049,1.02,us,us6000hl8x,2022-05-15T05:36:41.860Z,"192 km WNW of Constitución, Chile",earthquake,6.5,1.9,,,reviewed,us,guc
+2022-05-15T03:12:24.470Z,17.9981666666667,-66.9843333333333,11.5,2.5,md,4,142,,0.13,pr,pr71348908,2022-05-15T03:44:19.540Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.96,1.63,0.153075207838345,3,reviewed,pr,pr
+2022-05-15T02:42:07.710Z,19.3158333333333,-155.106166666667,1.61,2.71,ml,44,166,,0.14,hv,hv73012682,2022-05-17T22:33:08.040Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.36,0.215477873563542,17,reviewed,hv,hv
+2022-05-15T02:33:34.110Z,31.5145,-115.6358333,9.02,2.95,ml,9,101,0.1763,0.09,ci,ci40019135,2022-05-15T16:05:46.096Z,"91km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.23,0.67,0.137,56,reviewed,ci,ci
+2022-05-15T02:26:34.720Z,31.504,-115.6405,8.73,3.24,ml,8,107,0.1663,0.21,ci,ci40019119,2022-05-15T15:54:48.626Z,"91km ESE of Maneadero, B.C., MX",earthquake,0.81,2.3,0.153,25,reviewed,ci,ci
+2022-05-15T02:02:45.970Z,18.5543,-67.2526,89,3.49,md,18,187,0.2831,0.18,pr,pr2022135000,2022-05-15T14:28:42.870Z,"17 km NW of Caban, Puerto Rico",earthquake,1.01,0.81,0.08,8,reviewed,pr,pr
+2022-05-15T00:36:52.892Z,-6.1218,142.5781,10,4.6,mb,,85,9.737,0.8,us,us6000hl80,2022-05-16T08:51:24.928Z,"51 km SW of Tari, Papua New Guinea",earthquake,8,1.5,0.081,46,reviewed,us,us
+2022-05-15T00:00:03.498Z,32.664,-104.4284,5,3.1,mb_lg,,72,0.523,0.61,us,us6000hl7w,2022-05-15T00:10:13.040Z,"12 km SSW of Atoka, New Mexico",earthquake,3.1,2,0.049,129,reviewed,us,us
+2022-05-14T22:28:34.465Z,43.8837,147.733,35,5.1,mb,,115,3.716,0.75,us,us6000hl71,2022-05-14T22:47:05.040Z,"81 km E of Shikotan, Russia",earthquake,9,2,0.038,228,reviewed,us,us
+2022-05-14T22:27:28.605Z,-8.52,-71.5215,580.36,4.6,mb,,68,1.41,0.81,us,us6000hl70,2022-05-14T22:41:47.040Z,"92 km WSW of Tarauacá, Brazil",earthquake,11.3,9.1,0.025,459,reviewed,us,us
+2022-05-14T21:42:39.450Z,18.2413,-67.4001,79,3.48,md,25,207,0.1635,0.13,pr,pr2022134001,2022-05-15T21:44:39.964Z,"18 km WSW of Stella, Puerto Rico",earthquake,0.79,0.53,0.15,18,reviewed,pr,pr
+2022-05-14T21:28:14.790Z,34.9123333,-119.353,5.83,3.26,ml,72,26,0.05664,0.31,ci,ci40018903,2022-05-15T21:21:38.919Z,"17km SSE of Maricopa, CA",earthquake,0.24,0.63,0.189,129,reviewed,ci,ci
+2022-05-14T20:13:36.292Z,-40.9147,174.75,49.23,4.5,mb,,45,0.395,0.73,us,us6000hl6j,2022-05-15T00:13:52.715Z,"22 km W of Paraparaumu, New Zealand",earthquake,3.6,5.5,0.128,18,reviewed,us,us
+2022-05-14T19:59:22.980Z,19.163,-67.0873333333333,4,3.33,md,17,294,,0.23,pr,pr71348838,2022-05-14T21:43:40.040Z,"73 km N of Isabela, Puerto Rico",earthquake,2.18,2.09,0.0561544820935325,13,reviewed,pr,pr
+2022-05-14T19:48:04.701Z,40.1288,76.5977,10,4.5,mb,,71,2.046,1.02,us,us6000hl6f,2022-05-14T21:26:01.040Z,"Kyrgyzstan-Xinjiang border region",earthquake,6.3,1.9,0.09,36,reviewed,us,us
+2022-05-14T19:00:57.450Z,35.1055,-96.3135,2.6,3.12,ml,99,59,0,0.23,ok,ok2022jklo,2022-05-15T02:06:46.874Z,"6 km SSE of Yeager, Oklahoma",earthquake,,0.6,0.25,43,reviewed,ok,ok
+2022-05-14T18:33:47.708Z,63.4927,-151.2246,0,2.6,ml,,,,0.87,ak,ak02265wxhci,2022-05-17T18:30:33.040Z,"25 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-14T18:20:33.400Z,37.4786682,-118.7913361,8.22,2.45,md,27,128,0.1151,0.05,nc,nc73733706,2022-05-14T18:56:10.400Z,"14km SW of Toms Place, CA",earthquake,0.33,1.39,0.25,32,automatic,nc,nc
+2022-05-14T17:41:11.421Z,-7.0103,129.7588,124.61,4.3,mb,,91,1.806,0.56,us,us6000hl5y,2022-05-14T21:56:12.040Z,"Kepulauan Babar, Indonesia",earthquake,7.2,12.1,0.153,13,reviewed,us,us
+2022-05-14T17:31:47.130Z,19.1938333333333,-66.6213333333333,23.62,3.1,md,13,258,,0.24,pr,pr71348813,2022-05-14T21:42:35.040Z,"80 km N of Arecibo, Puerto Rico",earthquake,1.02,16.46,0.135612165090774,8,reviewed,pr,pr
+2022-05-14T17:14:07.127Z,41.1257,44.0609,11.77,4.3,mwr,,32,1.003,0.79,us,us6000hl5q,2022-05-14T21:31:26.040Z,"16 km WSW of Metsavan, Armenia",earthquake,5.5,4.4,0.083,14,reviewed,us,us
+2022-05-14T17:06:01.147Z,46.2143,152.7005,47.04,4.3,mb,,102,7.445,0.61,us,us6000hl5p,2022-05-14T20:57:52.040Z,"Kuril Islands",earthquake,10,8.5,0.077,51,reviewed,us,us
+2022-05-14T16:56:33.180Z,64.1153,-21.3144,10,4.5,mb,,102,0.634,1.09,us,us6000hl5m,2022-05-16T02:20:50.099Z,"14 km NNW of Hveragerði, Iceland",earthquake,6.8,1.9,0.061,80,reviewed,us,us
+2022-05-14T15:52:20.560Z,17.9283333333333,-66.9451666666667,9.78,2.66,md,10,224,,0.15,pr,pr71348803,2022-05-14T16:22:15.444Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.77,0.49,0.208090403423601,5,reviewed,pr,pr
+2022-05-14T15:36:02.195Z,32.00004995,-103.8333135,6.877099609,2.8,ml,15,78,0.1629420823,0.3,tx,tx2022jkeu,2022-05-18T21:11:27.315Z,"33 km SE of Malaga, New Mexico",earthquake,1.781285068,3.633582426,0.2,9,reviewed,tx,tx
+2022-05-14T15:20:03.082Z,-28.7483,-176.8451,10,4.9,mb,,143,1.071,1.06,us,us6000hl58,2022-05-14T16:03:25.040Z,"Kermadec Islands region",earthquake,7.9,1.9,0.051,120,reviewed,us,us
+2022-05-14T14:22:42.730Z,60.8072,-151.2613,62.9,3.8,ml,,,,0.58,ak,ak02265uhdnr,2022-05-16T22:59:00.896Z,"13 km N of Nikiski, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-05-14T13:46:16.013Z,31.64939686,-104.5093109,6.054443359000001,2.6,ml,14,84,0.02056847188,0.4,tx,tx2022jkbe,2022-05-18T20:59:30.746Z,"59 km SSW of Whites City, New Mexico",earthquake,2.032393989,1.732740917,0.2,7,reviewed,tx,tx
+2022-05-14T13:10:43.494Z,6.9402,-73.1682,139.55,4.2,mb,,123,1.044,1.02,us,us6000hl48,2022-05-14T17:03:13.040Z,"13 km ENE of Betulia, Colombia",earthquake,9,6.7,0.054,96,reviewed,us,us
+2022-05-14T12:22:56.875Z,-28.7118,-176.6856,10,5.3,mww,,64,1.212,0.7,us,us6000hl40,2022-05-14T13:09:58.040Z,"Kermadec Islands region",earthquake,10.6,1.9,0.086,13,reviewed,us,us
+2022-05-14T12:21:50.466Z,-29.4059,-176.1457,10,4.8,mb,,138,1.556,1.09,us,us6000hl3y,2022-05-14T13:02:20.040Z,"Kermadec Islands region",earthquake,11.1,1.9,0.067,71,reviewed,us,us
+2022-05-14T11:47:20.520Z,37.4766655,-118.7931671,7.98,2.48,md,24,71,0.1167,0.05,nc,nc73733616,2022-05-14T14:29:10.944Z,"14km SW of Toms Place, CA",earthquake,0.36,1.58,0.19,30,automatic,nc,nc
+2022-05-14T11:47:15.347Z,-23.6183,-66.8319,216.51,4.7,mb,,108,1.404,0.79,us,us6000hl3s,2022-05-14T12:09:18.040Z,"84 km NW of San Antonio de los Cobres, Argentina",earthquake,5.8,10.6,0.208,8,reviewed,us,us
+2022-05-14T11:20:00.840Z,40.3771667,-124.7546667,18.35,3,md,69,237,0.3272,0.17,nc,nc73733606,2022-05-17T08:36:10.283Z,"40km W of Petrolia, CA",earthquake,0.42,0.3,0.16,88,reviewed,nc,nc
+2022-05-14T10:48:32.679Z,34.6635,140.6304,69.32,4.7,mb,,132,1.687,0.88,us,us6000hl3i,2022-05-16T16:33:50.272Z,"60 km SSE of Katsuura, Japan",earthquake,7,7.1,0.037,223,reviewed,us,us
+2022-05-14T10:19:00.282Z,59.8465,-153.5234,119.9,2.6,ml,,,,0.67,ak,ak02265s2tql,2022-05-14T10:44:19.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-14T10:05:49.972Z,23.9507,122.5835,23.81,4.5,mb,,92,0.645,0.7,us,us6000hl3b,2022-05-14T10:34:02.040Z,"71 km SW of Yonakuni, Japan",earthquake,5,5.1,0.074,54,reviewed,us,us
+2022-05-14T09:28:04.885Z,31.6064253,-103.9948791,7.725463867,3.2,ml,15,73,0.1267944998,0.2,tx,tx2022jjsq,2022-05-18T23:29:59.464Z,"37 km NNW of Toyah, Texas",earthquake,0.9947062876,1.5262947840000003,0.2,13,reviewed,tx,tx
+2022-05-14T09:15:22.489Z,31.59791297,-103.9977978,7.905419922,2.7,ml,17,78,0.1335230003,0.2,tx,tx2022jjse,2022-05-18T20:56:55.680Z,"36 km NNW of Toyah, Texas",earthquake,1.223329658,1.623093578,0.1,12,reviewed,tx,tx
+2022-05-14T08:25:51.780Z,31.9821167,-102.3100467,7.263061523,2.7,ml,18,86,0.03001351732,0.1,tx,tx2022jjqp,2022-05-14T15:32:49.719Z,"western Texas",earthquake,1.475659998,1.453034714,0.2,12,reviewed,tx,tx
+2022-05-14T06:57:39.433Z,51.8004,-173.9648,26.6,2.9,ml,,,,0.41,ak,ak02265pxex2,2022-05-14T19:38:12.938Z,"46 km SSE of Atka, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2022-05-14T05:25:22.310Z,19.4045,-66.3498,50,3.68,md,20,238,0.9446,0.39,pr,pr2022134000,2022-05-14T06:25:03.507Z,"103 km N of Brenas, Puerto Rico",earthquake,2.13,8.57,0.07,8,reviewed,pr,pr
+2022-05-14T05:07:22.195Z,-35.7446,-73.5459,10,4.3,mb,,166,1.041,0.56,us,us6000hl1u,2022-05-14T05:57:13.040Z,"108 km WNW of Quirihue, Chile",earthquake,6.2,1.9,0.154,12,reviewed,us,us
+2022-05-14T05:01:54.484Z,-25.8209,179.8516,490.03,4.4,mb,,92,3.957,0.97,us,us6000hl20,2022-05-14T06:42:54.040Z,"south of the Fiji Islands",earthquake,15.2,8.2,0.112,23,reviewed,us,us
+2022-05-14T04:17:28.675Z,22.5337,143.2011,122.07,4.4,mb,,81,4.635,1.27,us,us6000hmdh,2022-05-19T21:39:11.040Z,"Volcano Islands, Japan region",earthquake,11.7,6.5,0.079,48,reviewed,us,us
+2022-05-14T03:59:53.799Z,-24.7397,16.3144,10,4.4,mb,,158,2.275,0.57,us,us6000hmdm,2022-05-19T21:17:11.040Z,"Namibia",earthquake,4.7,1.9,0.269,4,reviewed,us,us
+2022-05-14T02:25:19.606Z,-3.1708,139.7219,69.78,5.1,mww,,42,7.466,1.24,us,us6000hl1d,2022-05-17T16:11:06.040Z,"119 km WSW of Abepura, Indonesia",earthquake,10.8,5.2,0.08,15,reviewed,us,us
+2022-05-13T22:27:11.329Z,12.0344,-86.1758,5.11,3.4,ml,,159,0.134,0.37,us,us6000hl0g,2022-05-15T21:53:53.411Z,"3 km ENE of Ticuantepe, Nicaragua",earthquake,2.3,1.8,0.081,20,reviewed,us,us
+2022-05-13T22:18:14.431Z,36.6894,71.0946,208.6,4.3,mb,,70,0.601,0.71,us,us6000hl0e,2022-05-13T22:40:31.040Z,"30 km SE of Jurm, Afghanistan",earthquake,6.5,5.5,0.084,40,reviewed,us,us
+2022-05-13T22:16:47.960Z,19.1453333333333,-155.477833333333,31.5,2.67,ml,48,162,,0.12,hv,hv73011552,2022-05-13T22:30:48.040Z,"6 km S of Pāhala, Hawaii",earthquake,0.43,0.56,0.160913984395403,16,reviewed,hv,hv
+2022-05-13T22:08:50.034Z,38.1879,26.1414,6.12,4.3,mwr,,37,1.924,0.77,us,us6000hl0b,2022-05-15T14:05:34.166Z,"14 km S of Thymianá, Greece",earthquake,2.1,5.1,0.046,46,reviewed,us,us
+2022-05-13T21:55:00.437Z,86.4314,65.6171,10,4.1,mb,,109,9.476,0.7,us,us6000hl09,2022-05-13T22:13:13.040Z,"north of Franz Josef Land",earthquake,4,2,0.117,20,reviewed,us,us
+2022-05-13T21:39:36.485Z,56.2566,-156.4502,62.3,3.2,ml,,,,0.48,ak,ak02264b7p4j,2022-05-13T21:51:32.040Z,"121 km E of Chignik, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-05-13T21:38:49.505Z,31.66300432,-104.4028728,5.437451172,2.6,ml,22,84,0.08365095358,0.3,tx,tx2022jivg,2022-05-18T08:31:20.319Z,"56 km S of Whites City, New Mexico",earthquake,1.408597183,1.88788131,0.2,17,reviewed,tx,tx
