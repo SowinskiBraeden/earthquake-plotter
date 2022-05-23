@@ -7,7 +7,7 @@ from mpl_toolkits.basemap import Basemap
 eq_lat, eq_lon = [], []
 magnitudes, eq_ts = [], []
 
-# test commit 2
+# test commit
 
 with open('2.5_week.csv', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
