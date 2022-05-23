@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
 
 eq_lat, eq_lon = [], []
-magnitudes, eq_ts = [], []
+magnitudes = []
+eq_ts = []
 
 with open('2.5_week.csv', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
